@@ -14,9 +14,9 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v2
 
-      - name: zwtdzh
+      - name: zwtdzszh
         run: |
-          git config --local user.email "zwtdzh@outlook.com"
+          git config --local user.email "zwtdzszh@outlook.com"
           git config --local user.name "Zhang Wentao"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
