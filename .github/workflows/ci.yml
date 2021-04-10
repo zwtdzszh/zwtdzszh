@@ -16,7 +16,7 @@ jobs:
 
       - name: zwtdzszh
         run: |
-          git config --local user.email "zwtdzszh@pm.me"
+          git config --local user.email "zwtdzszh@tidio.xyz"
           git config --local user.name "Zhang Wentao"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
