@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset=”utf-8″>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <title>张文涛的主页</title> 
+  <meta name="keywords" content="引导,个人,网站,技术,网，站"> 
+  <meta name="description" content="信息唯有分享才重要！！"> 
+  <meta name="applicable-device" content="pc,mobile">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+  <link rel='canonical' href='https://zwtdyhm.github.io' />
+  <link rel="shortcut icon" href="logo.ico"> 
+  <link rel="stylesheet" href="main.css">
+  <noscript>
+   <link rel="stylesheet" href="noscript.css">
+  </noscript>
+  <meta http-equiv="Page-Exit"; content="blendTrans(Duration=1.0)">
+ </head>
+ <body>
+  <div id="wrapper"> 
+   <header id="header"> 
+    <div class="logo"> 
+     <span>张文涛</span>
+    </div> 
+    <div class="content"> 
+     <div class="inner"> 
+      <h1>张文涛的主页</h1> 
+      <p>信息唯有分享才重要！！</p> 
+     </div> 
+    </div> 
+    <nav>
+     <ul>
+      <li><a target="_blank" href="/blog">我的博客</a></li>
+      <li><a target="_blank" href="/nav">收录导航</a></li> 
+     </ul> 
+    </nav> 
+   </header> 
+   <footer id="footer"> 
+    <p class="copyright">您的IP:<script src="https://pv.sohu.com/cityjson"></script> <script type="text/javascript">ipcity=returnCitySN,document.write(ipcity['cip'],'|',ipcity['cname'])</script> </p> 
+    <p class="copyright">Copyright © 张文涛, All Rights Reserved.</p> 
+    <p class="copyright"><a target="_blank" href="https://icp.gov.moe/?keyword=20210200">萌ICP备20210200号</a></p> 
+    <p class="copyright"><span id="sitetime"></span></p> 
+   </footer> 
+  </div>
+  <div id="bg"></div＞  
+  <script src="jquery.min.js"></script>
+  <script src="skel.min.js"></script>
+  <script src="main.js"></script>
+  <script src="time.js"></script>
+  <script type="text/javascript">document.oncontextmenu=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.onpaste=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.oncopy=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.oncut=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.onselectstart=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}};</script>
+  <audio autoplay>
+  <source src="https://music.163.com/song/media/outer/url?id=1329948531.mp3" type="audio/mpeg"><!-- ！BGM！-->
+  </audio>
+</html>
