@@ -17,7 +17,7 @@ jobs:
       - name: zwtdzszh
         run: |
           git config --local user.email "zwtdzszh@tidio.xyz"
-          git config --local user.name "Zhang Wentao"
+          git config --local user.name "张文涛"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           git commit --allow-empty -m "a commit a day keeps your girlfriend away"
